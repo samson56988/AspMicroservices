@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "BasketService": {
+    "DiscountService": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -8,7 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:5250"
+      "applicationUrl": "http://localhost:5081"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -30,7 +30,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:54902",
+      "applicationUrl": "http://localhost:18587",
       "sslPort": 0
     }
   }
